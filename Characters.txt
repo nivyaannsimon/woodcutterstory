@@ -2,3 +2,4 @@ woodcutter
 axe 
 tree
 Angel
+golden axe
